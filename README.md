@@ -7,7 +7,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandi-hermawan01&layout=compact&theme=monokai&langs_count=12"/><br /> -->
 </p>
 <p align='center'>
-  <img src='https://github-profile-trophy.vercel.app/?username=sandi-hermawan01&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=-1' />
+  <img src='https://github-profile-trophy.vercel.app/?username=sandi-hermawan01&theme=monokai&no-frame=true&no-bg=false&margin-w=4&column=-1' />
 </p>
 <!--
 **sandi-hermawan01/sandi-hermawan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
